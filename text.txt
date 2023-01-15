@@ -4,3 +4,5 @@ test project       -> git add          ->  git commit    -> git push
 tracked  untracked
 changes control
 version control
+
+make changes - git add - git commit  -git push   -git pull
